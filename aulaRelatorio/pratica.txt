@@ -1,0 +1,11 @@
+As funcionalidades a serem agregadas devem contemplar:
+
+Relatório de Turmas: permite gerar um relatório contendo todas as turmas
+cadastradas para um determinado curso.-OK
+
+Relatório de Disciplinas: permite gerar um relatório contendo todas as
+disciplinas cadastradas para um determinado curso.-OK
+
+Relatório de Conteúdos e Atividades: permite gerar um relatório contendo
+todos os conteúdos e atividades cadastradas para uma determina disciplina.
+Essas informações devem ser apresentadas de acordo com o bimestre.-
